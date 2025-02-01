@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+table, th, td {
+  border:1px solid black;
+	border-end-start-radius: 5px;
+	border-start-end-radius: 5px;
+	border-end-end-radius: 5px;
+	border-start-start-radius: 5px;
+}
+table{
+	border: none;
+}
